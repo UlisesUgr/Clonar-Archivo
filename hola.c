@@ -1,4 +1,5 @@
 #include <stdio.h>
+//SYNC << sincronizando
 /* Esto es un comentario */
 // ULISES GARCIA RAMOS
 main() {
